@@ -1,5 +1,4 @@
 #include<iostream>
-#include<iomanip>
 #include<vector>
 
 // Vector usando o struct como class wraper ou tipo de dados
